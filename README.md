@@ -33,6 +33,10 @@ Result:
 
 The result is a log file as:
 
+- Column Size : The size of the analysis file;
+- Column Cls : the number of defined class. with `class foo.bar()`
+- Column Lines : Number of Python lines. (without commented lines or blank lines);
+
 
 |Module Name  | Repository (version_7) | Repository (version_8) | Analysis File | Size | Cls/lines  |
 |-------------|------------------------|------------------------|---------------|------|------------|
